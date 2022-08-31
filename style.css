@@ -1,0 +1,90 @@
+body{
+    background-color: black;
+}
+
+header{
+    width: 100%;
+    height: 100px;
+    background-color: white;
+    border-bottom: 4px solid red;
+    display: block;
+}
+header img{
+    width: 10%;
+    height: 80px;
+    text-align: center;
+    
+}
+
+header ul{
+    list-style-type: none;
+    
+}
+header li{
+    width: 150px;
+    float: left;
+    padding: 5px;
+    
+}
+header a{
+  
+    text-align: center;
+    padding: 5px;
+}
+
+header ul li a{
+    
+    color: red;
+    text-align: center;
+    text-decoration: none;
+    font-family: fantasy;
+}
+.vinho{
+    width: 20%;
+    height: 170px;
+    padding: 25px;
+    
+}
+section img{
+    width: 50%;
+    height: 400px;
+    padding: 30px;
+    float: left;
+    border-radius: 40px;
+    
+  
+}
+section p{
+    color: yellow;
+    font-family: fantasy;
+    font-size: 40px;
+    padding: 5px;
+}
+.contentSec{
+    color: white;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+.contentSec button{
+    border-color: red;
+    background-color: rgb(240, 169, 128);
+}
+.contentSec th{
+    color: red;
+    background-color: rgb(240, 169, 128);
+}
+.contentSec td{
+   background-color: red;
+}
+
+.form{
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 20px;
+}
+input{
+    color: black;
+    background-color: rgb(240, 169, 128);
+    border-color: red;
+}
